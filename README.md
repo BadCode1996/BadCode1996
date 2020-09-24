@@ -1,4 +1,9 @@
-### Hi there 👋
+## 👋 Hey Guys I'm BadCode
+
+- 🔭 I’m currently working on Java develop
+- 🌱 I’m currently learning [Vue](https://cn.vuejs.org/)
+- 🤔 My Blog : [badcode.icu](https://blog.badcode.icu)
+- 😄 Pronouns: 不努力，出来混什么社会，当卧底么？
 
 <!--
 **BadCode1996/BadCode1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
