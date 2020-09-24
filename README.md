@@ -1,6 +1,6 @@
 ## 👋 Hey Guys I'm BadCode
 
-- 🔭 I’m currently working on Java develop
+- 🔭 I’m currently working on **Java develop**
 - 🌱 I’m currently learning [Vue](https://cn.vuejs.org/)
 - 🤔 My Blog : [badcode.icu](https://blog.badcode.icu)
 - 😄 Pronouns: 不努力，出来混什么社会，当卧底么？
