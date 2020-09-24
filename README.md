@@ -5,6 +5,8 @@
 - 🤔 My Blog : [badcode.icu](https://blog.badcode.icu)
 - 😄 Pronouns: 不努力，出来混什么社会，当卧底么？
 
+  [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)]() [![Java](https://img.shields.io/badge/Spring-gray?style=flat&logo=spring)]() [![MySQL](https://img.shields.io/badge/-MySQL-0175C2?style=flat&logo=mysql&logoColor=black)]() [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)]() [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)]() [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)]() [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)]()
+
 <!--
 **BadCode1996/BadCode1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
